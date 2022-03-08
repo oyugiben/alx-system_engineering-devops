@@ -1,0 +1,2 @@
+#!/bin/bash
+alias export PATH=$PATH:/place/with/the/file/place/with/the/file
