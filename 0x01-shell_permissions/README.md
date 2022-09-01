@@ -1,6 +1,6 @@
 0-iam_betty:	Switches the current user to betty
 
-1-who_am_i:	Prints the username of the current user (Leart command whoami. Went with groups $USER) #rebel
+1-who_am_i:	Prints the username of the current user (Leart command whoami. Went with echo $USER) #rebel. I was wrong
 
 2-groups:	Prints all the groups the user is a part of
 
