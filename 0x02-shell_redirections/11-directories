@@ -1,0 +1,2 @@
+#!/bin/bash
+du | grep -e '/' | wc -l
